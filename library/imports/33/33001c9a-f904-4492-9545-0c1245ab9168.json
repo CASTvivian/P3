@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slcd",
+    "texture": "7431c4d8-22b3-4e7c-96fa-26791ac6734c",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      699,
+      44
+    ],
+    "offset": [
+      -162.5,
+      8
+    ],
+    "originalSize": [
+      1024,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

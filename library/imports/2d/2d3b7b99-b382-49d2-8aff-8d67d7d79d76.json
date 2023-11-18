@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quwaishoushang",
+    "texture": "21900473-212f-47a5-adab-c37b6b8c1297",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1600,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1600,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

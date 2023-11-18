@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xm_ad_mask",
+    "texture": "0bbcf93a-c718-4dc2-b88a-bb6389d0d2fc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      700,
+      296
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      700,
+      296
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

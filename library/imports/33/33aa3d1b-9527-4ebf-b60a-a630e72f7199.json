@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "try.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg_try": {
+      "__uuid__": "76a13ef3-158e-4873-96e1-fa9a0056b6dd"
+    },
+    "btnClose": {
+      "__uuid__": "1ae29ff8-ca1c-4dbe-9fb7-41c2598e8004"
+    },
+    "btnLevel-en": {
+      "__uuid__": "c1b167cd-1093-4049-bc4d-96e00895e346"
+    },
+    "btnLevel": {
+      "__uuid__": "b3d62351-7ede-49f7-a843-712b310db431"
+    },
+    "btnTry-en": {
+      "__uuid__": "3a37718c-055d-4e41-a107-4ea297a12072"
+    },
+    "btnTry": {
+      "__uuid__": "d453218f-5f04-43da-890e-b8177ff48960"
+    },
+    "hongBg": {
+      "__uuid__": "c1fbad56-32c9-46e9-b62d-a65e36dc2657"
+    },
+    "img": {
+      "__uuid__": "12e67764-aa48-48b5-9a4a-58cd60009e9b"
+    },
+    "k": {
+      "__uuid__": "b177b383-16ce-4004-a2fc-8744f73ef3d8"
+    },
+    "lanBg": {
+      "__uuid__": "3756baa1-dff0-4360-a63e-cce354d5dd13"
+    },
+    "title_try-en": {
+      "__uuid__": "9befcecc-0c46-4cb4-844f-18d0ec693423"
+    },
+    "title_try": {
+      "__uuid__": "a8e08c52-f649-4c40-89a7-6e7c515e1a14"
+    },
+    "tittle-en": {
+      "__uuid__": "e53ea7bc-4921-41f3-9791-4dbc1a7d1904"
+    },
+    "tittle": {
+      "__uuid__": "06319c16-0bb4-47f7-83dd-531c9fc48b48"
+    },
+    "weaponInfoKuang": {
+      "__uuid__": "d0845f14-4309-41a3-ab6b-7d2cbda727fb"
+    }
+  }
+}

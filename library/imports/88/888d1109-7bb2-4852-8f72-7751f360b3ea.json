@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zombie_jump",
+    "texture": "73bc54fa-f4c3-43fe-a2ed-4605caa39433",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      1342,
+      252
+    ],
+    "offset": [
+      -349,
+      0
+    ],
+    "originalSize": [
+      2048,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "README.en",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "# PlatformComponent\r\n\r\n#### Description\r\n各平台的通用组件\r\n\r\n#### Software Architecture\r\nSoftware architecture description\r\n\r\n#### Installation\r\n\r\n1. xxxx\r\n2. xxxx\r\n3. xxxx\r\n\r\n#### Instructions\r\n\r\n1. xxxx\r\n2. xxxx\r\n3. xxxx\r\n\r\n#### Contribution\r\n\r\n1. Fork the repository\r\n2. Create Feat_xxx branch\r\n3. Commit your code\r\n4. Create Pull Request\r\n\r\n\r\n#### Gitee Feature\r\n\r\n1. You can use Readme\\_XXX.md to support different languages, such as Readme\\_en.md, Readme\\_zh.md\r\n2. Gitee blog [blog.gitee.com](https://blog.gitee.com)\r\n3. Explore open source project [https://gitee.com/explore](https://gitee.com/explore)\r\n4. The most valuable open source project [GVP](https://gitee.com/gvp)\r\n5. The manual of Gitee [https://gitee.com/help](https://gitee.com/help)\r\n6. The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)"
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fengren",
+    "texture": "5790391a-d5db-4b56-be15-bd36a0ebf6bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

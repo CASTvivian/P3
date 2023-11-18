@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zombie_bomb",
+    "texture": "1ef45297-a2c2-49b2-a2ee-74a40a008240",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      1453,
+      254
+    ],
+    "offset": [
+      -296.5,
+      -1
+    ],
+    "originalSize": [
+      2048,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

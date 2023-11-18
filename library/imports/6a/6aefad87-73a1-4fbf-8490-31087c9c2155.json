@@ -1,0 +1,136 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "x3",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "Bk282DgbdUI6HzIzem/5nqJ7hRI",
+      "spine": "3.8.99",
+      "images": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\血3\\images",
+      "audio": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\血3\\images"
+    },
+    "bones": [
+      {
+        "name": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "4",
+        "bone": "root"
+      },
+      {
+        "name": "3",
+        "bone": "root"
+      },
+      {
+        "name": "2",
+        "bone": "root"
+      },
+      {
+        "name": "1",
+        "bone": "root"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "1": {
+            "1": {
+              "x": 4.75,
+              "y": 6,
+              "width": 32,
+              "height": 35
+            },
+            "3": {
+              "x": -2.75,
+              "y": -0.5,
+              "width": 35,
+              "height": 38
+            },
+            "4": {
+              "x": 5.75,
+              "y": -5,
+              "width": 100,
+              "height": 67
+            }
+          },
+          "2": {
+            "2": {
+              "x": 6.25,
+              "y": -0.5,
+              "width": 69,
+              "height": 42
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": "1"
+              },
+              {
+                "time": 0.1,
+                "name": "3"
+              },
+              {
+                "time": 0.2,
+                "name": "4"
+              },
+              {
+                "time": 0.3,
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "time": 0.1,
+                "name": "2"
+              },
+              {
+                "time": 0.2,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "root": {
+            "scale": [
+              {
+                "x": 0.815,
+                "y": 0.815,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3,
+                "x": 1.293,
+                "y": 1.293
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nx3.png\r\nsize: 64,32\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: true\r\n  xy: 49, 2\r\n  size: 10, 11\r\n  orig: 10, 11\r\n  offset: 0, 0\r\n  index: -1\r\n2\r\n  rotate: true\r\n  xy: 2, 4\r\n  size: 21, 13\r\n  orig: 21, 13\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 49, 14\r\n  size: 11, 11\r\n  orig: 11, 11\r\n  offset: 0, 0\r\n  index: -1\r\n4\r\n  rotate: false\r\n  xy: 17, 5\r\n  size: 30, 20\r\n  orig: 30, 20\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "196f4920-8e51-43fe-8589-830c7c27c2fb"
+    }
+  ],
+  "textureNames": [
+    "x3.png"
+  ],
+  "scale": 1
+}

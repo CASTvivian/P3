@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "duqi",
+    "texture": "5d6b4f53-faf2-478b-8baf-049aac40e417",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      2038,
+      712
+    ],
+    "offset": [
+      -2,
+      153
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

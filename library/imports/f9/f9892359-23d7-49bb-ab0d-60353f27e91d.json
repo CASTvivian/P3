@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "msjs",
+    "texture": "3e3f33a3-8df5-4713-9ccb-12b33d9409a9",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      1950,
+      1514
+    ],
+    "offset": [
+      -48,
+      265
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

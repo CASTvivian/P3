@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "more_game_panel_new_1",
+    "texture": "202eaa06-3320-4a18-a3c7-20abf247dfc6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

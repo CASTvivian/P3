@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gold_view_13",
+    "texture": "26b07204-6add-4644-a183-ca25c61400a2",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1077,
+      1103
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      1078,
+      1104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

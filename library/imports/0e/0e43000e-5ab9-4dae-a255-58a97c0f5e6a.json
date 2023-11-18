@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaokuang",
+    "texture": "bbf18afb-83bc-4ebb-b5f1-cd6e1cb4658b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      205,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      205,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

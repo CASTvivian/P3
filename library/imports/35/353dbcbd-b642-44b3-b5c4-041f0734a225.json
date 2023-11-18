@@ -1,0 +1,161 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "rank1": {
+      "__uuid__": "acbacf5e-9ef1-4a57-8afd-c20f9e2db88f"
+    },
+    "rank10": {
+      "__uuid__": "54533f0c-d6e5-4162-9a61-baca53e60e2c"
+    },
+    "rank11": {
+      "__uuid__": "0ef35e1c-32c8-4bbf-a247-b0160596d8ea"
+    },
+    "rank12": {
+      "__uuid__": "8514a269-9018-48e0-bda9-6cbb96c13d60"
+    },
+    "rank2": {
+      "__uuid__": "a88b0683-c5b8-42c7-b376-4d9642b7ee41"
+    },
+    "rank3": {
+      "__uuid__": "6c65232b-6554-490f-8245-6aaf1558dea1"
+    },
+    "rank4": {
+      "__uuid__": "f1efdca6-46dc-4623-863b-feaec3e77c4c"
+    },
+    "rank5": {
+      "__uuid__": "6b7ca6a4-6a7c-44f5-95b3-be1142782ebc"
+    },
+    "rank6": {
+      "__uuid__": "23a0710e-7163-40cb-ad98-4d84aa4fbe8f"
+    },
+    "rank7": {
+      "__uuid__": "7b8a82cb-f775-48f9-bea4-55da482c5e1b"
+    },
+    "rank8": {
+      "__uuid__": "eca90d04-83a8-4c8c-a23d-44aa55c2430c"
+    },
+    "rank9": {
+      "__uuid__": "fb7c3894-57d8-49ad-a82c-74a6b79c3911"
+    },
+    "s_1": {
+      "__uuid__": "8d8b5acd-ab0a-4c4a-ba32-b3c341e43575"
+    },
+    "s_10": {
+      "__uuid__": "5d0984db-1e75-4a94-916b-67e0236493c6"
+    },
+    "s_11": {
+      "__uuid__": "0aafa83a-71a2-4884-9456-d65748a930d0"
+    },
+    "s_12": {
+      "__uuid__": "465a0cee-2418-453e-a54a-16945b839735"
+    },
+    "s_13": {
+      "__uuid__": "da465d9b-1aa7-4033-a388-b100ddf8b75b"
+    },
+    "s_14": {
+      "__uuid__": "acc1aeee-c9d9-458d-a015-5a1c264a9e39"
+    },
+    "s_15": {
+      "__uuid__": "67ef4bc0-0b4e-430a-bec3-bbef955a833d"
+    },
+    "s_16": {
+      "__uuid__": "30dc0215-1bae-4280-9cd3-ca0e8e357e9f"
+    },
+    "s_2": {
+      "__uuid__": "f1c2447e-3348-4d8f-a3e7-a759cdbff261"
+    },
+    "s_3": {
+      "__uuid__": "f42e2854-9bd6-4c13-b737-5de577e662c5"
+    },
+    "s_4": {
+      "__uuid__": "afd4ea8e-f5e2-47c3-9808-11efa283e7a7"
+    },
+    "s_5": {
+      "__uuid__": "1e73f1bc-b1e3-49ef-8eb4-68f968e09d47"
+    },
+    "s_6": {
+      "__uuid__": "fde6b9b9-058b-4361-92d8-356c4d1ab8bf"
+    },
+    "s_7": {
+      "__uuid__": "1d5c829d-d21e-44d9-ac72-1351e911085b"
+    },
+    "s_8": {
+      "__uuid__": "b7eff5a3-b410-446a-bf30-20819922d76a"
+    },
+    "s_9": {
+      "__uuid__": "6036a464-c90a-4cb9-931c-7101d57a4b60"
+    },
+    "w_ak": {
+      "__uuid__": "9a87866d-6643-44bb-84ab-3b99322c4371"
+    },
+    "w_cfq": {
+      "__uuid__": "e366ee7c-aab1-4fc7-8e5d-0ed0e9c5a64e"
+    },
+    "w_cjj": {
+      "__uuid__": "c7140a72-dcf5-450e-82e0-154b3a7b6906"
+    },
+    "w_dao": {
+      "__uuid__": "c7ecfdb1-25b3-41d8-a3f4-e08778ef0885"
+    },
+    "w_dg": {
+      "__uuid__": "b3480b56-5029-4c7f-86bb-41c6bbd26859"
+    },
+    "w_fs": {
+      "__uuid__": "eab80ffe-2a00-488e-b217-e136b30ddca7"
+    },
+    "w_gj": {
+      "__uuid__": "089a8a1f-2223-4fbe-b9c1-19dea198ddb5"
+    },
+    "w_gtst": {
+      "__uuid__": "031d1552-e478-4cdf-9c7c-411aaa32898a"
+    },
+    "w_hdl": {
+      "__uuid__": "dc5d125e-0af7-47f0-8dfa-fac6eb9af052"
+    },
+    "w_jgb": {
+      "__uuid__": "74b26ff2-73b4-45c6-9077-bd0e26464769"
+    },
+    "w_jtl": {
+      "__uuid__": "0aeedbe9-582c-4302-81eb-8eb1770fd6b6"
+    },
+    "w_ju": {
+      "__uuid__": "0b762f3c-54a5-489f-b6a3-85889473d310"
+    },
+    "w_ld": {
+      "__uuid__": "333af126-752c-4c55-90de-5974000779a4"
+    },
+    "w_mb": {
+      "__uuid__": "47bcc263-40ea-4c71-b80b-5ec38ce68d31"
+    },
+    "w_mq": {
+      "__uuid__": "6df75a80-8294-4eee-b4e7-51da3e5d3819"
+    },
+    "w_nnp": {
+      "__uuid__": "b58e018f-00e8-469f-9bd0-d6e1104fe99b"
+    },
+    "w_rsq": {
+      "__uuid__": "4e090819-534d-43ac-b637-2edcc4d4aa18"
+    },
+    "w_sd": {
+      "__uuid__": "d426facd-71dd-49aa-8c36-a49cb9068fc8"
+    },
+    "w_sq": {
+      "__uuid__": "5ebcd23e-2dee-4c36-9438-f89335f75f0e"
+    },
+    "w_sq2": {
+      "__uuid__": "8404927d-30e6-4eca-89c9-1c48e7877815"
+    },
+    "w_szg": {
+      "__uuid__": "fbb5e511-d681-48ec-8440-83f096b6438f"
+    },
+    "w_tb": {
+      "__uuid__": "872055b8-df52-4a77-90f2-63a52db4359e"
+    },
+    "w_tj": {
+      "__uuid__": "918fa928-5232-419a-9a06-aee13462d9fa"
+    }
+  }
+}

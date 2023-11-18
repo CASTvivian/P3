@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiaoyin",
+    "texture": "0f5bf899-9aa8-42a6-b5dd-aa9412949416",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      34,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      13
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

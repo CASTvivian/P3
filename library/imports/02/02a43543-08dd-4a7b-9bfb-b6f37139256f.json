@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "h001_gjdaoguang2",
+    "texture": "c34692d9-e58e-4ed7-8af7-5af53af9c377",
+    "atlas": "",
+    "rect": [
+      4,
+      8,
+      13,
+      218
+    ],
+    "offset": [
+      -0.5,
+      -2.5
+    ],
+    "originalSize": [
+      22,
+      229
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+	"wechat": {
+		"app_id": "wx598517e3b6d02210",
+		"is_banner_list": "true",
+		"is_more_game": "true",
+		"is_bottom_banner_list": "false",
+		"jump_id": "wx93c5fb7591fe1aa3,wx039e2b3405770f21,wx4f091b922b5b2f9f,wx81f858ecf0b1deed,wx9741935274696280,wxcd778c740cb72626,wxa41839cb4b26efe7,wx42946652532941a6,wx5183864ab7af5343,wxb61f909241e4647f",
+		"refresh_ad_time": 20,
+		"shares": {
+			"sy_title": "英雄地下城特工队来袭！！！",
+			"sy_img": "http://xcx.youletd.com/img/jump/s210812135929.jpg"
+		},
+		"intersititia_delay_show_time": 1,
+		"is_local_pos_id": "true",
+		"intersititia_pos_id": "adunit-5cabb770b95c5334",
+		"video_pos_id": "adunit-cdd0f31e77458f26",
+		"banner_pos_id": {
+			"home": "adunit-db45d4877dd652d1",
+			"game": "adunit-db45d4877dd652d1",
+			"over": "adunit-db45d4877dd652d1"
+		},
+		"native_banner_pos_id": "adunit-0441be486ccf64b3",
+		"native_intersititia_pos_id": "adunit-48002f2dd71b586b",
+		"is_jump": "true",
+		"jump_refresh_time": 5,
+		"jump_list": [],
+		"status": {
+			"version": "1.0.0"
+		},
+		"share_nums": [],
+		"is_attributed": "true",
+		"version": "1.0.6"
+	},
+	"vivo": {
+		"app_id": "com.yzxx.hxqzdmm.vivominigame",
+		"intersititial_first_ad": "native",
+		"intersititia_close_but_size": 150,
+		"intersititia_close_but_alpha": 100,
+		"intersititia_close_but_range": 150,
+		"intersititia_pos_id": "507f25d184f64b12bf12a0bbe6ae63ad",
+		"native_intersititial_pos_id": [
+			"2032e3b4134d45e99ab65ae8bd8cb9e7"
+		],
+		"video_pos_id": "c811addd1a53445986a1390e53d356a7",
+		"banner_first_ad": "native",
+		"banner_close_but_size": 60,
+		"banner_close_but_alpha": 120,
+		"banner_show_height": 220,
+		"banner_close_but_range": 80,
+		"banner_pos_id": "919e8deb4599419ab5686251508513e0",
+		"native_banner_pos_id": [
+			"b3934a60ae604744aaaa118126728c6c"
+		],
+		"native_banner_delay_time": 1,
+		"version": "1.0.2"
+	},
+	"oppo": {
+		"app_id": "30866063",
+		"package_name": "com.yzxx.hxqzdmm.kyx.nearme.gamecenter",
+		"intersititial_first_ad": "default",
+		"intersititia_close_but_size": 150,
+		"intersititia_close_but_alpha": 100,
+		"intersititia_close_but_range": 150,
+		"intersititia_pos_id": "191665",
+		"native_intersititial_pos_id": [
+			"617202",
+			"617194",
+			"617196",
+			"617198",
+			"617199"
+		],
+		"video_pos_id": "606501",
+		"banner_first_ad": "default",
+		"banner_close_but_size": 60,
+		"banner_close_but_alpha": 120,
+		"banner_show_height": 220,
+		"banner_close_but_range": 80,
+		"banner_pos_id": "606498",
+		"native_banner_pos_id": [
+			"606535",
+			"606521",
+			"606547",
+			"606540",
+			"606530"
+		],
+		"intersitial_configs": [
+			{
+				"id": "617202",
+				"type": "native"
+			},
+			{
+				"id": "617194",
+				"type": "native"
+			},
+			{
+				"id": "617196",
+				"type": "native"
+			},
+			{
+				"id": "617198",
+				"type": "native"
+			},
+			{
+				"id": "617199",
+				"type": "native"
+			}
+		],
+		"banner_configs": [
+			{
+				"id": "606535",
+				"type": "native"
+			},
+			{
+				"id": "606521",
+				"type": "native"
+			},
+			{
+				"id": "606547",
+				"type": "native"
+			},
+			{
+				"id": "606540",
+				"type": "native"
+			},
+			{
+				"id": "606530",
+				"type": "native"
+			},
+			{
+				"id": "624106",
+				"type": "template"
+			},
+			{
+				"id": "606498",
+				"type": "default"
+			}
+		],
+		"is_move_btn": 0,
+		"statement_type": 1,
+		"intersititial_max_show_count": 8,
+		"intersititial_interval_time": 60,
+		"intersititial_open_close_banner": 1,
+		"banner_close_count": 5,
+		"is_cross_game": "false",
+		"reward_first_ad": "video",
+		"is_reward_intersititia": "false",
+		"st_sync": "false",
+		"native_single_pos_id": [
+			"606559",
+			"606555",
+			"606560",
+			"606561",
+			"606554"
+		],
+		"rec_game_banner_id": "606509",
+		"rec_portal_id": "606504",
+		"rec_game_drawer_id": "606512",
+		"version": "1.0.5"
+	},
+	"toutiao": {
+		"app_id": "ttac0ddab03336a69a",
+		"is_more_game": "true",
+		"is_local_pos_id": "true",
+		"video_pos_id": "161012bg05f195f15o",
+		"banner_pos_id": "3lmc9b8mnja787lg67",
+		"intersititia_pos_id": "4ndnnqe17gddhil8es",
+		"shares": {
+			"sy_title": "炫酷战车，热血PK！",
+			"sy_img": "http://xcx.youletd.com/img/jump/s210112104639.jpg"
+		},
+		"version": "1.0.0"
+	},
+	"qutoutiao": {
+		"app_id": "a3GjGz7dE687",
+		"app_key": "aDcyTMSNUEpALHYjiEfMEcANDDMytrOFBAEZcmzHYMv2BMdNaNwQEmMTQmaf5eMb",
+		"game_name": "子弹先生"
+	},
+	"baidu": {
+		"app_id": "haXsaWh0reDrRhFMepyYGlsuSk2FAPYX",
+		"app_sid": "f71e8a65",
+		"video_pos_id": "7252046",
+		"banner_pos_id": "7252045",
+		"shares": {
+			"sy_title": "炫酷战车，热血PK！",
+			"sy_img": "http://xcx.youletd.com/img/jump/s210112104639.jpg"
+		},
+		"version": "1.0.0"
+	},
+	"qq": {
+		"app_id": "1112080518",
+		"banner_pos_id": "ddf85287eb7a8c636bb6328f03f9135c",
+		"video_pos_id": "117c67b3d51828dcf3497fd597019456",
+		"box_pos_id": "fef35bd319c5489b9902740e11840d69",
+		"banner_box_pos_id": "905957a820028ae12f9fdabe2e7a4b99",
+		"intersititia_pos_id": "d6a1a3076469fdb5fc488e8ceff027fc",
+		"shares": {
+			"sy_title": "炫酷战车，热血PK！",
+			"sy_img": "http://xcx.youletd.com/img/jump/s210112104639.jpg"
+		},
+		"version": "1.0.0"
+	},
+	"xiaomi": {
+		"app_id": "com.yzxx.dsjxmt.kyx.mi",
+		"video_pos_id": "48b43c9efc3183df004084257ef53499",
+		"intersititia_pos_id": "e52b28950bd31825dfcb4985873245fc",
+		"version": "1.0.0"
+	},
+	"uc": {
+		"app_id": "0e261d1151044e829965d7da5160b81f",
+		"app_key": "10ce3a712bc4431887a68e012c3f7fab",
+		"shares": {
+			"sy_title": "炫酷战车，热血PK！",
+			"sy_img": "http://xcx.youletd.com/img/jump/s210112104639.jpg"
+		},
+		"version": "1.0.0"
+	},
+	"cocos": {
+		"app_id": "681276733",
+		"app_key": "v1mwiig7li",
+		"app_secret": "f79b3b5b529076fa4db9d1450922efb5",
+		"video_pos_id": "460851392",
+		"banner_pos_id": "610478239",
+		"intersititia_pos_id": "618732905",
+		"shares": {
+			"sy_title": "开始你的炫酷的飘车竟技之旅!",
+			"sy_img": "http://xcx.youletd.com/img/jump/s200828180747.jpg"
+		}
+	},
+	"huawei": {
+		"app_id": "com.yzxx.wqzzmnsj.kyx.huawei",
+		"video_pos_id": "s9h1uf39wd",
+		"banner_pos_id": "n7zi0tpqm6",
+		"intersititia_pos_id": "z5f500sw9c",
+		"native_intersititial_pos_id": [
+			"w66e90us72"
+		],
+		"native_banner_pos_id": [
+			"p8zwvofdp6"
+		],
+		"version": "1.0.2"
+	},
+	"other": {
+		"group": "ui",
+		"yw_app_id": "2f13a15b95af452"
+	}
+}

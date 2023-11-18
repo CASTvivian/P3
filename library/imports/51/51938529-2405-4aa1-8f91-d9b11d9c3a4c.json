@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vertic_bg",
+    "texture": "90e18210-c5d0-4d18-9c95-946da69fc5db",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      898,
+      278
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      898,
+      278
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

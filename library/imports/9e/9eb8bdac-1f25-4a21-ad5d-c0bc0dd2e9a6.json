@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shellCase",
+    "texture": "f17b427d-fd84-424c-8e34-da6d45bf34b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      16,
+      12
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      12
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

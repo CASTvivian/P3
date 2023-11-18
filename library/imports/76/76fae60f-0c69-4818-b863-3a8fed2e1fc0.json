@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zuanshiBig",
+    "texture": "8a2b459a-2348-4869-b285-6847d6f96a73",
+    "atlas": "237946ab-8f39-4b89-8016-752091bf5024",
+    "rect": [
+      1896,
+      612,
+      118,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      81
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

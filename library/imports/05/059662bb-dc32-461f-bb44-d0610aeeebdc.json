@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reward_shortcut_1",
+    "texture": "1b201ff2-17a7-40c0-af68-1b4bfbd16890",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      210,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

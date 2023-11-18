@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zombie_basic_plus",
+    "texture": "bf8e330f-966d-4f11-a051-8668ef07de51",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1619,
+      252
+    ],
+    "offset": [
+      -212.5,
+      0
+    ],
+    "originalSize": [
+      2048,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

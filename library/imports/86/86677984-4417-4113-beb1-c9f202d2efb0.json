@@ -1,0 +1,190 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "zd",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "BSKgNnIhyUxU54ZS5ZLTkmaFD7M",
+      "spine": "3.8.99",
+      "x": -161.44,
+      "y": -163.56,
+      "width": 322,
+      "height": 327,
+      "images": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\怪\\炸弹特效\\images",
+      "audio": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\怪\\炸弹特效\\images"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "zd_1",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "zd_7",
+        "bone": "root"
+      },
+      {
+        "name": "zd_6",
+        "bone": "root"
+      },
+      {
+        "name": "zd_5",
+        "bone": "root"
+      },
+      {
+        "name": "zd_4",
+        "bone": "root"
+      },
+      {
+        "name": "zd_3",
+        "bone": "root"
+      },
+      {
+        "name": "zd_2",
+        "bone": "root"
+      },
+      {
+        "name": "zd_1",
+        "bone": "zd_1",
+        "attachment": "zd_1"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "zd_1": {
+            "zd_1": {
+              "x": -0.44,
+              "y": -0.06,
+              "width": 322,
+              "height": 327
+            },
+            "zd_2": {
+              "x": -5.44,
+              "y": 0.44,
+              "width": 374,
+              "height": 380
+            },
+            "zd_3": {
+              "x": 34.06,
+              "y": 0.44,
+              "width": 467,
+              "height": 380
+            },
+            "zd_4": {
+              "x": 27.56,
+              "y": 13.44,
+              "width": 442,
+              "height": 380
+            },
+            "zd_5": {
+              "x": 32.56,
+              "y": -15.56,
+              "width": 480,
+              "height": 300
+            },
+            "zd_6": {
+              "x": 8.06,
+              "y": -34.06,
+              "width": 391,
+              "height": 285
+            },
+            "zd_7": {
+              "x": -0.44,
+              "y": -14.56,
+              "width": 332,
+              "height": 284
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "zd_1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffffff",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.9333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.2667,
+                "name": "zd_2"
+              },
+              {
+                "time": 0.3667,
+                "name": "zd_3"
+              },
+              {
+                "time": 0.4667,
+                "name": "zd_4"
+              },
+              {
+                "time": 0.5667,
+                "name": "zd_5"
+              },
+              {
+                "time": 0.6667,
+                "name": "zd_6"
+              },
+              {
+                "time": 0.7667,
+                "name": "zd_7"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "zd_1": {
+            "scale": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.9333,
+                "x": 1.419,
+                "y": 1.419
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nzd.png\r\nsize: 1024,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nzd_1\r\n  rotate: true\r\n  xy: 693, 8\r\n  size: 296, 295\r\n  orig: 322, 327\r\n  offset: 13, 16\r\n  index: -1\r\nzd_2\r\n  rotate: true\r\n  xy: 302, 286\r\n  size: 349, 342\r\n  orig: 374, 380\r\n  offset: 15, 19\r\n  index: -1\r\nzd_3\r\n  rotate: false\r\n  xy: 2, 637\r\n  size: 465, 366\r\n  orig: 467, 380\r\n  offset: 1, 7\r\n  index: -1\r\nzd_4\r\n  rotate: false\r\n  xy: 469, 637\r\n  size: 440, 366\r\n  orig: 442, 380\r\n  offset: 1, 7\r\n  index: -1\r\nzd_5\r\n  rotate: true\r\n  xy: 2, 157\r\n  size: 478, 298\r\n  orig: 480, 300\r\n  offset: 1, 1\r\n  index: -1\r\nzd_6\r\n  rotate: false\r\n  xy: 302, 2\r\n  size: 389, 282\r\n  orig: 391, 285\r\n  offset: 1, 2\r\n  index: -1\r\nzd_7\r\n  rotate: true\r\n  xy: 646, 306\r\n  size: 329, 281\r\n  orig: 332, 284\r\n  offset: 2, 1\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "114363d9-aa77-4a40-b664-bad95493f512"
+    }
+  ],
+  "textureNames": [
+    "zd.png"
+  ],
+  "scale": 1
+}

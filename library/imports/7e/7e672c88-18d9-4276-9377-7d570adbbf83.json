@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toutiao_1",
+    "texture": "58b5c110-b12c-40f6-b242-924a647c3daa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      403,
+      145
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      403,
+      145
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boss_bao_ve",
+    "texture": "1ed1cfca-35c9-4081-bf57-0bf63246f1b8",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1551,
+      509
+    ],
+    "offset": [
+      -246.5,
+      -0.5
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

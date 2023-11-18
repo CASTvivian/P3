@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet_gtx 1",
+    "texture": "d5a3d513-8650-4529-8f74-11545b66163b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

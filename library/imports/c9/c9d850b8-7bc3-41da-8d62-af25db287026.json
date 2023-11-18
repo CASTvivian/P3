@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huodeBJ",
+    "texture": "df716bdd-79e2-47ff-bb9b-0f0528241e6d",
+    "atlas": "69625eba-6ba7-426a-a4d8-5b9d565a9e9b",
+    "rect": [
+      1322,
+      2,
+      868,
+      237
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      868,
+      237
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

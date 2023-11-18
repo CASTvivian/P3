@@ -1,0 +1,64 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "truntable_trip_font",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "4a041f91-7c51-4bd2-bab3-816e27c5b46c"
+  },
+  "fontSize": 32,
+  "_fntConfig": {
+    "commonHeight": 32,
+    "fontSize": 32,
+    "atlasName": "truntable_trip_font.png",
+    "fontDefDictionary": {
+      "49": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 22,
+          "height": 32
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 22
+      },
+      "50": {
+        "rect": {
+          "x": 24,
+          "y": 0,
+          "width": 22,
+          "height": 32
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 22
+      },
+      "51": {
+        "rect": {
+          "x": 48,
+          "y": 0,
+          "width": 22,
+          "height": 32
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 22
+      },
+      "52": {
+        "rect": {
+          "x": 0,
+          "y": 34,
+          "width": 22,
+          "height": 32
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 22
+      }
+    },
+    "kerningDict": {}
+  },
+  "_fontDefDictionary": null
+}

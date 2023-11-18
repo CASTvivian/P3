@@ -1,0 +1,55 @@
+
+zym.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jm
+  rotate: false
+  xy: 1592, 170
+  size: 138, 132
+  orig: 138, 132
+  offset: 0, 0
+  index: -1
+js
+  rotate: false
+  xy: 2, 133
+  size: 984, 366
+  orig: 984, 366
+  offset: 0, 0
+  index: -1
+jw
+  rotate: false
+  xy: 1592, 304
+  size: 196, 195
+  orig: 196, 195
+  offset: 0, 0
+  index: -1
+jy
+  rotate: false
+  xy: 1044, 19
+  size: 546, 480
+  orig: 546, 481
+  offset: 0, 0
+  index: -1
+jzym_r
+  rotate: true
+  xy: 2, 2
+  size: 67, 112
+  orig: 67, 112
+  offset: 0, 0
+  index: -1
+jzym_yz
+  rotate: true
+  xy: 1790, 143
+  size: 356, 84
+  orig: 356, 84
+  offset: 0, 0
+  index: -1
+jzym_yz2
+  rotate: false
+  xy: 2, 71
+  size: 1040, 60
+  orig: 1040, 60
+  offset: 0, 0
+  index: -1

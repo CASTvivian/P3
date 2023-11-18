@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "resumeGameBtn",
+    "texture": "e9104e95-d8f7-45ce-8046-7be04bbe38f9",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      986,
+      405
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      992,
+      406
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

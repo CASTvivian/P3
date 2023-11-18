@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "coin.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btn_huang": {
+      "__uuid__": "2c2e00ba-a9ae-4758-a073-417f985bf08a"
+    },
+    "btn_jxyx-yy": {
+      "__uuid__": "8bf9462e-bbd4-496a-bc4b-38d4f1f6e671"
+    },
+    "btn_jxyx": {
+      "__uuid__": "75a01ce7-4284-4e2b-8c50-eac4c07beca7"
+    },
+    "btn_lan": {
+      "__uuid__": "a0657fe2-8d04-455b-9d11-ca6c26550f53"
+    },
+    "btn_ljlq-yy": {
+      "__uuid__": "c37d9837-84ff-4f7f-890a-727cacac7739"
+    },
+    "btn_ljlq": {
+      "__uuid__": "796a7224-301c-4bdb-be1c-14c7d617a68e"
+    },
+    "jinbibuzu": {
+      "__uuid__": "88fc8762-37f1-4693-86a3-14ae2d43e601"
+    },
+    "jinbibuzu_txt-yy": {
+      "__uuid__": "63b395ef-cbaf-4071-be18-52d80f70c429"
+    },
+    "jinbibuzu_txt": {
+      "__uuid__": "24c83cd8-d31b-494d-b8b5-69255f2c524d"
+    },
+    "jinbibuzu_txt2-yy": {
+      "__uuid__": "101cd0fa-e0ba-420d-90eb-f1bb6dbbed94"
+    },
+    "jinbibuzu_txt2": {
+      "__uuid__": "db21b709-8421-44ae-a62e-eb65f626fff1"
+    },
+    "zuanshibuzu": {
+      "__uuid__": "7216c2a7-ab67-4b78-a1df-dd58eee85493"
+    },
+    "zuanshibuzu_txt-yy": {
+      "__uuid__": "d14eb4ab-616c-4427-b53d-43035f153a0a"
+    },
+    "zuanshibuzu_txt": {
+      "__uuid__": "6be60c03-3adc-4aed-a2be-5c9959daed92"
+    },
+    "zuanshibuzu_txt2-yy": {
+      "__uuid__": "b3bb6462-e96e-4e57-bee1-54558d45b626"
+    },
+    "zuanshibuzu_txt2": {
+      "__uuid__": "d272c1bd-8237-4790-981c-e6c5c083402d"
+    }
+  }
+}

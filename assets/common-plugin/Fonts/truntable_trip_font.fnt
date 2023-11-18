@@ -1,0 +1,8 @@
+info face="face" size=32
+common lineHeight=32 scaleW=70 scaleH=66 pages=1
+page id=0 file="truntable_trip_font.png"
+chars count=4
+char id=49 x=0 y=0 width=22 height=32 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=50 x=24 y=0 width=22 height=32 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=51 x=48 y=0 width=22 height=32 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=52 x=0 y=34 width=22 height=32 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15

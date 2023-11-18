@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "privacy_bg",
+    "texture": "84e5c741-1d7b-4f95-a7bc-8fb8afa43142",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      100
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      140,
+      101
+    ],
+    "capInsets": [
+      12,
+      13,
+      16,
+      15
+    ]
+  }
+}

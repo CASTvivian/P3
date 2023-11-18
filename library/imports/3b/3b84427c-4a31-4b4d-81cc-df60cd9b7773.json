@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flarespark",
+    "texture": "45ac7f82-ea82-4de2-9358-22b6bb27cbec",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      127
+    ],
+    "offset": [
+      -2,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

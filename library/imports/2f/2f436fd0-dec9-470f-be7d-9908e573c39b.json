@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cahcha",
+    "texture": "c76b31b1-9166-4e5c-8125-a8fe08fb69e7",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      124,
+      124
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      126
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

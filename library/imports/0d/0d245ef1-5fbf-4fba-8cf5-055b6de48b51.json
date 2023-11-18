@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet_ranshao1",
+    "texture": "48a4125d-2a91-4d43-a826-29a292c90bb0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

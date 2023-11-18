@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "UITurntablePage.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btnAD-en": {
+      "__uuid__": "92d4e323-d876-4a7b-ab33-ea970f50177b"
+    },
+    "btnAD": {
+      "__uuid__": "52e3d572-496c-44b3-bfeb-ae62377de917"
+    },
+    "btn_close": {
+      "__uuid__": "3c0e9e50-4704-480f-b763-fd8c59aaadd9"
+    },
+    "btncj-en": {
+      "__uuid__": "a8e52221-025c-4435-8438-cf13cc8ad27f"
+    },
+    "btncj": {
+      "__uuid__": "38bcb04b-de67-43c1-842a-5fce8fe78f05"
+    },
+    "cjcount-en": {
+      "__uuid__": "e5a460b3-9247-444d-95b2-56bf969cfc0a"
+    },
+    "cjcount": {
+      "__uuid__": "1b5f5966-7e71-4307-8051-a7ac29daa33a"
+    },
+    "guang": {
+      "__uuid__": "b30384f5-a598-4e68-be18-ee3589e3db47"
+    },
+    "icon_coinBig": {
+      "__uuid__": "512700fb-6842-41d2-bb12-d5723ac582ed"
+    },
+    "icon_zuanshiBig": {
+      "__uuid__": "76fae60f-0c69-4818-b863-3a8fed2e1fc0"
+    },
+    "m1": {
+      "__uuid__": "b6ba40a5-d259-46c8-92c9-17ab2c3b0b7c"
+    },
+    "m2": {
+      "__uuid__": "f8549cb3-8b8f-4eb4-9145-9e98f3459eb9"
+    },
+    "nnp-en": {
+      "__uuid__": "60a186b7-18fd-4c1b-883b-53e07e0d6f31"
+    },
+    "nnp": {
+      "__uuid__": "d2a16a2f-bb20-457c-b917-00c61e9890a7"
+    },
+    "nnpzi2-en": {
+      "__uuid__": "c809e485-5aec-4d98-ae70-dae92d88f82a"
+    },
+    "nnpzi2": {
+      "__uuid__": "9b07777c-4f52-4d3f-be36-538a330319b2"
+    },
+    "nnpziBg": {
+      "__uuid__": "e610c74e-5b52-4afa-a65d-140f9a723c0a"
+    },
+    "panel": {
+      "__uuid__": "cb8aeee9-560f-43a5-93f0-81515c7b3dbf"
+    },
+    "panel_txt-en": {
+      "__uuid__": "22bfbecf-8b6a-4a52-89b6-bf430c64556e"
+    },
+    "panel_txt": {
+      "__uuid__": "709d041d-57d9-438b-92fa-5745e8686336"
+    },
+    "s1": {
+      "__uuid__": "0f782394-d539-4ce5-82ec-2939a19c6ec8"
+    },
+    "s2": {
+      "__uuid__": "a0d1bad7-7531-434f-9ec1-82f923643a85"
+    },
+    "txt_yj-en": {
+      "__uuid__": "64763736-c3a8-4505-9495-59d1250bdf7a"
+    },
+    "txt_yj": {
+      "__uuid__": "8780fdcb-bf73-4b06-aea0-982ed9d8c3dd"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "revive.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btn_huang": {
+      "__uuid__": "8176a9ef-fff0-4ee3-a525-d41be9a70295"
+    },
+    "btn_lan": {
+      "__uuid__": "3597cba7-d66d-48a2-a8b4-c01516760485"
+    },
+    "btn_lijifh-en": {
+      "__uuid__": "3320fff9-d9ec-4da2-a0f7-2dd982f59b67"
+    },
+    "btn_lijifh": {
+      "__uuid__": "2f95a02f-f94b-461f-975f-1c5c490ab775"
+    },
+    "btn_txrs-en": {
+      "__uuid__": "560ffe5c-c1f5-4e51-a16e-47c01fee7a43"
+    },
+    "btn_txrs": {
+      "__uuid__": "20d332ec-30bb-4238-a96a-48f95179528e"
+    },
+    "diquan": {
+      "__uuid__": "7492d765-c896-42f3-84e0-7203e4e3066a"
+    },
+    "shangquan": {
+      "__uuid__": "4f795494-f952-4b92-8856-bdfd7f19d53d"
+    },
+    "share": {
+      "__uuid__": "b15402dc-4316-442e-8c0f-dd2aa4c63c08"
+    },
+    "shipin": {
+      "__uuid__": "e4f82921-1232-4b96-878c-74404f4ccfd1"
+    }
+  }
+}

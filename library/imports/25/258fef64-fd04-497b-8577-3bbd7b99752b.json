@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_shake",
+    "texture": "d7373e9a-6ca0-4436-89d7-2afb5022e745",
+    "atlas": "f36e0593-968c-4a97-9686-f3148a069391",
+    "rect": [
+      856,
+      523,
+      49,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      36
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

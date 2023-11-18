@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet_miao",
+    "texture": "0bc2d188-d82e-42f9-b6da-d274923bf7bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

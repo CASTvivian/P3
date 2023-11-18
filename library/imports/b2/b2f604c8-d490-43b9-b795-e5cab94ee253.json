@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sd",
+    "texture": "fa1d6812-b360-4045-892e-26c1d381ef6e",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1994,
+      508
+    ],
+    "offset": [
+      -25,
+      0
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

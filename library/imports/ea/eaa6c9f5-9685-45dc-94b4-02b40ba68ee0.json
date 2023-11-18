@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "common_img.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Recommend": {
+      "__uuid__": "6c13c552-8fd0-47c7-8705-f0bec8144d5e"
+    },
+    "app_mask": {
+      "__uuid__": "150291e2-e38b-41e9-b68c-a0a5cbaa8027"
+    },
+    "background": {
+      "__uuid__": "2004bb26-dc93-4635-8a12-5d5f53a955fe"
+    },
+    "bg_border": {
+      "__uuid__": "9ccf853d-c968-4012-8981-b5865b535bdf"
+    },
+    "border": {
+      "__uuid__": "5d8fa556-3f58-4bf8-9d1d-11b4d9ff54d5"
+    },
+    "btn": {
+      "__uuid__": "5b90eb3b-6c70-485e-adf8-c2796522a9a9"
+    },
+    "clickInstall": {
+      "__uuid__": "8c1ba78b-d6e3-4995-a274-2f8869e07280"
+    },
+    "close": {
+      "__uuid__": "6bd46437-a6ec-4985-ad88-41ea287cd991"
+    },
+    "game_title": {
+      "__uuid__": "6b91811f-3913-46c4-88c4-e7ae2d2d0b1f"
+    },
+    "handImg": {
+      "__uuid__": "c591c1e9-0484-42bd-a5a7-e5ac185e903f"
+    },
+    "icon_mask": {
+      "__uuid__": "c6c48f2b-5f42-4535-b724-34d63a5ddd50"
+    },
+    "interstitial_bg": {
+      "__uuid__": "51198211-4a1b-4cba-a9d5-3c93f89d3be5"
+    },
+    "itemBg": {
+      "__uuid__": "ff3202d6-de7e-4582-a632-ae77629ecaf6"
+    },
+    "kuang": {
+      "__uuid__": "99c60652-f420-4728-9e8b-0ddaabea697e"
+    },
+    "like": {
+      "__uuid__": "a98be481-02b3-4d17-89e1-58da89dadd4d"
+    },
+    "loadingCircleBg": {
+      "__uuid__": "f50c32a9-7dd5-4ecf-8904-ef73576ff62d"
+    },
+    "mark": {
+      "__uuid__": "efb827e6-541b-4d42-9808-f6f3cfd60d55"
+    },
+    "mask_2": {
+      "__uuid__": "a93501a7-e6cb-49f4-ab5d-fc2671f190c7"
+    },
+    "moreGameTitle": {
+      "__uuid__": "e966496c-4e32-4228-9358-0263b1c49ea2"
+    },
+    "more_game": {
+      "__uuid__": "b181d818-a1c7-452c-a953-a3d6ef70b5a4"
+    },
+    "more_game_1": {
+      "__uuid__": "21a6c92c-8f6b-477a-9467-04c803bebbd7"
+    },
+    "more_game_3": {
+      "__uuid__": "430eaa2d-2d6d-43f5-8625-6eaedd30d3d2"
+    },
+    "more_text": {
+      "__uuid__": "11a01147-a60f-4fa1-8eb1-35625609aa64"
+    },
+    "recordBtn1": {
+      "__uuid__": "ad2b301d-fa8b-4b5a-804e-40db39e42dac"
+    },
+    "recordBtn2": {
+      "__uuid__": "e9df83a6-7549-472f-b25f-51b0d0dfff0b"
+    },
+    "recordBtnBg": {
+      "__uuid__": "f8d9e056-f34f-4447-a422-381e846f3b63"
+    },
+    "rectBg": {
+      "__uuid__": "e84ecc2f-b130-4763-8bea-d1c80fd607fb"
+    },
+    "redpoint": {
+      "__uuid__": "35bedd17-5e47-4233-9e85-2a5e323208cb"
+    },
+    "share_record_penel_1": {
+      "__uuid__": "8df72b2e-6330-4fc9-bfac-79d5b2290b58"
+    },
+    "share_record_penel_2": {
+      "__uuid__": "fff2b488-fcdd-41e6-ab35-b407f8400dd1"
+    },
+    "share_record_penel_3": {
+      "__uuid__": "f0d2844e-6da4-47c4-9998-7b54a9decd3d"
+    },
+    "share_record_penel_4": {
+      "__uuid__": "2e77fde0-d08c-4dbe-a881-2a4966d8ccad"
+    },
+    "share_record_penel_5": {
+      "__uuid__": "f47e4c06-80a3-43fa-b94d-93aa4a008f3e"
+    },
+    "share_record_penel_6": {
+      "__uuid__": "143a8e8c-0140-4a56-b9a7-f72c3e17871b"
+    },
+    "share_record_penel_7": {
+      "__uuid__": "6d3e7875-0503-4607-abb9-8ca779b982e1"
+    },
+    "share_record_penel_8": {
+      "__uuid__": "0a63b758-b853-453e-89d8-07e8e25c96cc"
+    },
+    "shortcut": {
+      "__uuid__": "646889f5-55ab-4724-b591-f1ef91e19cfd"
+    },
+    "star": {
+      "__uuid__": "5a07efdc-dc54-475d-b32a-8210bf18d013"
+    },
+    "statement_ad_1": {
+      "__uuid__": "5dbcb8eb-1d89-41e3-8ed2-1f50892b0dbc"
+    },
+    "statement_ad_2": {
+      "__uuid__": "1100e6b8-6d97-49d1-af2e-811b4e26fea6"
+    },
+    "statement_ad_3": {
+      "__uuid__": "f0c6d1ba-b540-4191-b674-da6fe5c19565"
+    },
+    "titleBackground": {
+      "__uuid__": "5ce782dd-a472-415b-ba6d-dbb6436e93c9"
+    },
+    "x1": {
+      "__uuid__": "b07e020c-fc66-499e-b8bd-fe31ca39dfd9"
+    },
+    "x2": {
+      "__uuid__": "d35b5a08-a1de-4bd2-aa67-50ee05431679"
+    },
+    "x3": {
+      "__uuid__": "d32b5f2d-3901-433d-bfd6-03d8156496db"
+    }
+  }
+}

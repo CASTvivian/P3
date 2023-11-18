@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qiangti6",
+    "texture": "b25532e5-6bc6-4d4a-911f-e967878fd521",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2000,
+      365
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2000,
+      365
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

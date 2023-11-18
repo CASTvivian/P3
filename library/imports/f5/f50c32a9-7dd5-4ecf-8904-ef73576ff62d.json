@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loadingCircleBg",
+    "texture": "3241d69a-8199-456d-b8b4-b204f6f2cde5",
+    "atlas": "eaa6c9f5-9685-45dc-94b4-02b40ba68ee0",
+    "rect": [
+      770,
+      1955,
+      66,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      66
+    ],
+    "capInsets": [
+      20,
+      20,
+      20,
+      20
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet_liudan",
+    "texture": "6c180373-5d3e-4095-ad71-c150a8f22e52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

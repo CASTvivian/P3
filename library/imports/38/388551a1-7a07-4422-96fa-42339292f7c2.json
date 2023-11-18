@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "red_bag_imgs",
+    "texture": "df716bdd-79e2-47ff-bb9b-0f0528241e6d",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2033,
+      2044
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2037,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "streak",
+    "texture": "6c0c6f6f-a885-44f0-ad08-4761bd27cb88",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      286,
+      19
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      286,
+      19
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

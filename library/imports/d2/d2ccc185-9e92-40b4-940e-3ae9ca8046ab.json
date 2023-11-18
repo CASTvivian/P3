@@ -1,0 +1,308 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "duqi",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "vx/CNrVn1Tc7LkqmCS6mPabq6Is",
+      "spine": "3.8.99",
+      "x": -225.03,
+      "y": 90.98,
+      "width": 599,
+      "height": 181,
+      "images": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\怪\\毒气效果\\images",
+      "audio": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\怪\\毒气效果\\images"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "dqbz_1",
+        "parent": "root",
+        "x": 294.16,
+        "y": 182.12
+      },
+      {
+        "name": "dqrs_1",
+        "parent": "root",
+        "x": -113.2,
+        "y": 115.25
+      }
+    ],
+    "slots": [
+      {
+        "name": "dqbz_1",
+        "bone": "dqbz_1",
+        "attachment": "dqbz_1"
+      },
+      {
+        "name": "dqbz_2",
+        "bone": "root"
+      },
+      {
+        "name": "dqbz_3",
+        "bone": "root"
+      },
+      {
+        "name": "dqbz_4",
+        "bone": "root"
+      },
+      {
+        "name": "dqbz_5",
+        "bone": "root"
+      },
+      {
+        "name": "dqbz_6",
+        "bone": "root"
+      },
+      {
+        "name": "dqbz_7",
+        "bone": "root"
+      },
+      {
+        "name": "dqrs_1",
+        "bone": "dqrs_1",
+        "attachment": "dqrs_1"
+      },
+      {
+        "name": "dqrs_2",
+        "bone": "dqrs_1"
+      },
+      {
+        "name": "dqrs_3",
+        "bone": "dqrs_1"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "dqbz_1": {
+            "dqbz_1": {
+              "x": 5.31,
+              "y": -0.65,
+              "width": 149,
+              "height": 181
+            },
+            "dqbz_2": {
+              "x": 57.81,
+              "y": 7.35,
+              "width": 334,
+              "height": 231
+            },
+            "dqbz_3": {
+              "x": 57.31,
+              "y": 16.35,
+              "width": 385,
+              "height": 395
+            },
+            "dqbz_4": {
+              "x": 37.31,
+              "y": 32.85,
+              "width": 489,
+              "height": 556
+            },
+            "dqbz_5": {
+              "x": 74.81,
+              "y": 6.35,
+              "width": 474,
+              "height": 491
+            },
+            "dqbz_6": {
+              "x": 68.31,
+              "y": 24.35,
+              "width": 589,
+              "height": 487
+            },
+            "dqbz_7": {
+              "x": 40.31,
+              "y": -6.15,
+              "width": 325,
+              "height": 324
+            }
+          },
+          "dqrs_1": {
+            "dqrs_1": {
+              "x": -49.83,
+              "y": 43.73,
+              "width": 124,
+              "height": 112
+            },
+            "dqrs_2": {
+              "x": -82.83,
+              "y": 76.73,
+              "width": 190,
+              "height": 176
+            },
+            "dqrs_3": {
+              "x": -96.33,
+              "y": 83.73,
+              "width": 239,
+              "height": 210
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "dqbz_1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffffff",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.9,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.2333,
+                "name": "dqbz_2"
+              },
+              {
+                "time": 0.3333,
+                "name": "dqbz_3"
+              },
+              {
+                "time": 0.4333,
+                "name": "dqbz_4"
+              },
+              {
+                "time": 0.5333,
+                "name": "dqbz_5"
+              },
+              {
+                "time": 0.6333,
+                "name": "dqbz_6"
+              },
+              {
+                "time": 0.7333,
+                "name": "dqbz_7"
+              }
+            ]
+          },
+          "dqrs_1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "dqbz_1": {
+            "translate": [
+              {
+                "x": -294.16,
+                "y": -182.12
+              }
+            ],
+            "scale": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.9,
+                "x": 1.465,
+                "y": 1.465
+              }
+            ]
+          }
+        }
+      },
+      "animation2": {
+        "slots": {
+          "dqbz_1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "dqrs_1": {
+            "attachment": [
+              {
+                "time": 0.0667,
+                "name": "dqrs_2"
+              },
+              {
+                "time": 0.1333,
+                "name": "dqrs_3"
+              },
+              {
+                "time": 0.2,
+                "name": "dqrs_2"
+              },
+              {
+                "time": 0.2667,
+                "name": "dqrs_3"
+              },
+              {
+                "time": 0.3333,
+                "name": "dqrs_2"
+              },
+              {
+                "time": 0.4,
+                "name": "dqrs_3"
+              },
+              {
+                "time": 0.4667,
+                "name": "dqrs_2"
+              },
+              {
+                "time": 0.5333,
+                "name": "dqrs_1"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "dqrs_1": {
+            "translate": [
+              {
+                "x": 113.2,
+                "y": -115.25
+              }
+            ]
+          },
+          "root": {
+            "rotate": [
+              {
+                "angle": 75.63
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nduqi.png\nsize: 2048,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ndqbz_1\n  rotate: false\n  xy: 764, 53\n  size: 145, 177\n  orig: 149, 181\n  offset: 2, 2\n  index: -1\ndqbz_2\n  rotate: false\n  xy: 2, 2\n  size: 332, 228\n  orig: 334, 231\n  offset: 1, 2\n  index: -1\ndqbz_3\n  rotate: false\n  xy: 1614, 324\n  size: 380, 391\n  orig: 385, 395\n  offset: 2, 2\n  index: -1\ndqbz_4\n  rotate: true\n  xy: 588, 232\n  size: 483, 552\n  orig: 489, 556\n  offset: 3, 2\n  index: -1\ndqbz_5\n  rotate: false\n  xy: 1142, 229\n  size: 470, 486\n  orig: 474, 491\n  offset: 2, 3\n  index: -1\ndqbz_6\n  rotate: false\n  xy: 2, 232\n  size: 584, 483\n  orig: 589, 487\n  offset: 2, 2\n  index: -1\ndqbz_7\n  rotate: true\n  xy: 1614, 4\n  size: 318, 316\n  orig: 325, 324\n  offset: 3, 4\n  index: -1\ndqrs_1\n  rotate: true\n  xy: 1932, 201\n  size: 121, 109\n  orig: 124, 112\n  offset: 2, 1\n  index: -1\ndqrs_2\n  rotate: false\n  xy: 575, 57\n  size: 187, 173\n  orig: 190, 176\n  offset: 2, 1\n  index: -1\ndqrs_3\n  rotate: false\n  xy: 336, 23\n  size: 237, 207\n  orig: 239, 210\n  offset: 1, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "5d6b4f53-faf2-478b-8baf-049aac40e417"
+    }
+  ],
+  "textureNames": [
+    "duqi.png"
+  ],
+  "scale": 1
+}

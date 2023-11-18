@@ -1,0 +1,98 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "red_bag_imgs.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "beijK": {
+      "__uuid__": "5309adea-0886-4117-bf93-388d942d0c89"
+    },
+    "btn1BK": {
+      "__uuid__": "32815036-74c5-4b13-92f6-18f04c6b1c85"
+    },
+    "btn2BK": {
+      "__uuid__": "61bd211f-ba4a-4046-b0be-f078183a3771"
+    },
+    "btnLiji": {
+      "__uuid__": "337d3023-7c4a-46cf-940b-ebbd42fca96a"
+    },
+    "btnLijilingqu": {
+      "__uuid__": "2e902682-ab99-44d9-9d36-e0a516261b3d"
+    },
+    "btnShuangbei": {
+      "__uuid__": "8f079c08-5de9-4bcc-9ce4-d13a4f534fff"
+    },
+    "btntTixiang": {
+      "__uuid__": "44dcebb7-bcaa-4af6-a01e-0bef5f2a338a"
+    },
+    "dakuang": {
+      "__uuid__": "67e5389a-f00f-400e-b23c-05f6b97347f8"
+    },
+    "guanbi1": {
+      "__uuid__": "3832c9e1-9f11-45df-86ce-6ee837b56b2d"
+    },
+    "guanbi2": {
+      "__uuid__": "afd00629-918e-4512-b188-247f2b64b0ae"
+    },
+    "hongbaoBJ1": {
+      "__uuid__": "81375df5-9bf7-4a7f-a95a-f7b2041f50af"
+    },
+    "hongbaoBJ2": {
+      "__uuid__": "85ed1427-d2a6-4069-959b-a6310f135dc3"
+    },
+    "hongbaoicon1": {
+      "__uuid__": "8a7d94f1-0142-44c0-a431-0e9ce042e593"
+    },
+    "huodeBJ": {
+      "__uuid__": "c9d850b8-7bc3-41da-8d62-af25db287026"
+    },
+    "huodeHongbao": {
+      "__uuid__": "5606a5a2-4e52-4919-b9f8-ef26c80c0d0b"
+    },
+    "iconShipingi": {
+      "__uuid__": "601291da-e10b-4f3f-bd0d-3a6f91a88247"
+    },
+    "jindu": {
+      "__uuid__": "04fa8141-dd29-4c4c-9027-49ecb0109a5f"
+    },
+    "jinduBJ": {
+      "__uuid__": "8fe45072-36f1-477a-ac3b-7dae9be580a8"
+    },
+    "kai": {
+      "__uuid__": "125e3634-f041-42eb-abef-5b1bb317bfb5"
+    },
+    "linghongbaoicon": {
+      "__uuid__": "5c152452-81c6-4e63-aede-9e2130c7c384"
+    },
+    "text_cghb": {
+      "__uuid__": "3f8490b4-ffbb-481a-8291-a77265b6c1b2"
+    },
+    "text_mrhb": {
+      "__uuid__": "fc1420a2-dcec-44d5-a78a-5eb7b72640ca"
+    },
+    "tixianBJ": {
+      "__uuid__": "c5234894-73a4-4188-a059-01155da7bdf0"
+    },
+    "tixianHS": {
+      "__uuid__": "7ee9ede9-e390-4fa8-9e0f-9b2f078df764"
+    },
+    "tixianLS": {
+      "__uuid__": "286f6016-7cea-41d1-b2b9-bf3c6a63e62e"
+    },
+    "tixianWX": {
+      "__uuid__": "4ff4edcb-09fe-4abe-914a-d708d5fe425b"
+    },
+    "tixianXZ": {
+      "__uuid__": "aaf02428-1c2b-42bf-8aaf-1cb248f7a0f2"
+    },
+    "tixingBJ": {
+      "__uuid__": "e8398952-9199-472e-b9de-63f946b17006"
+    },
+    "xiaokuang": {
+      "__uuid__": "8e8945a0-24dd-4831-a180-1d1f1ed54b83"
+    },
+    "xiaokuang1": {
+      "__uuid__": "f6271216-8232-4ad5-af05-65319db4dedd"
+    }
+  }
+}

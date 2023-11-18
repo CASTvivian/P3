@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pro_klq",
+    "texture": "5008ca11-6f62-415a-831c-3f7638e975bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

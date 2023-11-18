@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet_jian_tuowei",
+    "texture": "4f3d551c-1e15-43fb-8a01-dc75b3bfc8e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      86
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      20,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

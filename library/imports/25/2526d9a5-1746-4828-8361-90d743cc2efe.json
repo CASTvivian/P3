@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_butBJ",
+    "texture": "ab5373c0-c929-4811-a341-02a413a17c24",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      435,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      435,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

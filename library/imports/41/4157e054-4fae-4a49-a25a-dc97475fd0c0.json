@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "README",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "# PlatformComponent\r\n\r\n#### 介绍\r\n各平台的通用组件\r\n\r\n#### 软件架构\r\n软件架构说明\r\n\r\n\r\n#### 安装教程\r\n\r\n1. xxxx\r\n2. xxxx\r\n3. xxxx\r\n\r\n#### 使用说明\r\n\r\n1. xxxx\r\n2. xxxx\r\n3. xxxx\r\n\r\n#### 参与贡献\r\n\r\n1. Fork 本仓库\r\n2. 新建 Feat_xxx 分支\r\n3. 提交代码\r\n4. 新建 Pull Request\r\n\r\n\r\n#### 码云特技\r\n\r\n1. 使用 Readme\\_XXX.md 来支持不同的语言，例如 Readme\\_en.md, Readme\\_zh.md\r\n2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)\r\n3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目\r\n4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目\r\n5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)\r\n6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)"
+}

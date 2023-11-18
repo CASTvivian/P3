@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinbibuzu_txt-yy",
+    "texture": "1dfaf099-a798-4a20-8755-52b55f73a8ea",
+    "atlas": "a2cabaeb-bc7b-4ee4-8a7b-62adc162202d",
+    "rect": [
+      750,
+      1419,
+      194,
+      42
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      194,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

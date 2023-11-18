@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common-plugin\\Scripts\\FaceBookSdk\\FBSdk.ts"],"names":[],"mappings":";;;;;;AAAA,6CAAwC;AACxC,MAAM,CAAC,aAAa,CAAC,GAAG,qBAAW,CAAC","file":"","sourceRoot":"/","sourcesContent":["import FBAdManager from \"./FBAdManager\";\nwindow[\"FBAdManager\"] = FBAdManager;"]}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "native_banner_3",
+    "texture": "6f4f8219-7bf1-4f08-bc66-d679d95212a6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

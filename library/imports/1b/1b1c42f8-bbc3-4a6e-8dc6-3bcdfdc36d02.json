@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "zombie_skill.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg_title": {
+      "__uuid__": "6b6909cd-c876-4593-94aa-8145c2a4ec6b"
+    },
+    "btn_huang": {
+      "__uuid__": "a410f885-6656-4ca8-81c1-8f7336797705"
+    },
+    "btn_red": {
+      "__uuid__": "c4efe71b-2958-4244-ba07-eb9211dcae5e"
+    },
+    "fxjs": {
+      "__uuid__": "f9d708dc-eafd-424d-bf5a-96578f18d5ae"
+    },
+    "fxjs_en": {
+      "__uuid__": "ada40ea1-07fd-45e4-8054-93897a330d04"
+    },
+    "share": {
+      "__uuid__": "fa27e59a-9135-43fc-80f3-0b6d77d7359e"
+    },
+    "shipin": {
+      "__uuid__": "839c838c-308e-4332-b756-056cc95ae389"
+    },
+    "spjs-en": {
+      "__uuid__": "b6a0de2c-165c-46f7-a52f-1ee805376493"
+    },
+    "spjs": {
+      "__uuid__": "126abb54-cc87-49cd-8d42-69d04fc536ca"
+    },
+    "txt_shipionshuaxin-en": {
+      "__uuid__": "3b62d786-7183-48ed-a8f5-2b63f5df0650"
+    },
+    "txt_shipionshuaxin": {
+      "__uuid__": "94985d2c-f56c-4128-b340-2af4e96671c5"
+    },
+    "txt_tittle-en": {
+      "__uuid__": "2bc2060f-c8c1-44af-a7d0-d6915fc196f5"
+    },
+    "txt_tittle": {
+      "__uuid__": "6d84d45f-b636-49a8-b85c-2ed5eb63fe82"
+    },
+    "weixuanzhong-jinengkuang": {
+      "__uuid__": "03f1f438-8eee-412a-99ba-0fc39d7aa050"
+    },
+    "xuanzhong-jinengkuang": {
+      "__uuid__": "b3f08487-dfb6-4932-9307-6d0de421a7ce"
+    }
+  }
+}

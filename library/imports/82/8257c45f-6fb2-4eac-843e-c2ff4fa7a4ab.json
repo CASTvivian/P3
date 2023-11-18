@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mbtx",
+    "texture": "56d9b5d9-7c07-4b16-8ad2-792cb9f7e454",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      361,
+      251
+    ],
+    "offset": [
+      -73.5,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

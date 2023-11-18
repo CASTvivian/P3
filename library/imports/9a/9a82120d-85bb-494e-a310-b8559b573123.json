@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hongzhaquan",
+    "texture": "a6ba95fa-f3c2-4b08-a77b-daa340ea7628",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      802,
+      302
+    ],
+    "offset": [
+      -110,
+      103
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

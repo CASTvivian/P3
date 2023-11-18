@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "truntable_trip_font",
+    "texture": "cfce1c74-9a5b-4d2e-bca1-37130d2a4d48",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      66
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      70,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

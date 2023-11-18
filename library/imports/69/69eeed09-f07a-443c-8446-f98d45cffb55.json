@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "batface_icon_bj",
+    "texture": "efed428e-2541-4967-aec1-d757cc9ba9c5",
+    "atlas": "57a8ca77-807b-4384-af53-381c96faab6b",
+    "rect": [
+      362,
+      1061,
+      164,
+      216
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      216
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

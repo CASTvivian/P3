@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "screwbrain_icon_sw",
+    "texture": "efed428e-2541-4967-aec1-d757cc9ba9c5",
+    "atlas": "57a8ca77-807b-4384-af53-381c96faab6b",
+    "rect": [
+      1370,
+      171,
+      205,
+      173
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      207,
+      173
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

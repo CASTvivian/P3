@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "video_icon_box",
+    "texture": "b7661c5c-a1ef-4611-a365-33b6640f7673",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

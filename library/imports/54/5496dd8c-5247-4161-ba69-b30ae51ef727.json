@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "splash_time_bg",
+    "texture": "038acdb9-8a64-41c8-ad84-52d9e8949314",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      151,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      151,
+      86
+    ],
+    "capInsets": [
+      43,
+      0,
+      51,
+      0
+    ]
+  }
+}

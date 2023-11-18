@@ -1,0 +1,199 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "CommonUtils",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_level": 1,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 0
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_quat": {
+      "__type__": "cc.Quat",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "groupIndex": 0,
+    "_id": "",
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "30bc3m3g/hJ/5QMVAo/j0Cz",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "DebugLoacalConfig": false,
+    "showLogView": false,
+    "config": {
+      "__id__": 3
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "CommonConfig",
+    "otherconfig": {
+      "__id__": 4
+    }
+  },
+  {
+    "__type__": "OtherConfig",
+    "localConfig": {
+      "__uuid__": "f35c3725-9a80-4b8d-b4b6-02c731958af3"
+    },
+    "logoutView": {
+      "__uuid__": "73bc0861-11a0-41ba-973a-1198e9ccd2cd"
+    },
+    "nativeBanner": {
+      "__uuid__": "dc3b0685-db32-4ded-afac-4cc9375ad544"
+    },
+    "nativeInsert": {
+      "__uuid__": "a2fa398d-c489-4259-be65-4edb66cc05e1"
+    },
+    "nativeSplashView": {
+      "__uuid__": "1346cce7-ae3a-43a8-955f-21a8ff872567"
+    },
+    "recommendGamesBanner": {
+      "__uuid__": "039e9a19-0873-4bf4-8500-bba7fbb006e8"
+    },
+    "recommendGamesBar": {
+      "__uuid__": "f8ee0ad6-821f-4d40-bea4-7aa0ab11a183"
+    },
+    "tryGamesWidget": {
+      "__uuid__": "e7b9db64-a599-435e-9e5e-d52f32e545c8"
+    },
+    "moreGamesWidget": {
+      "__uuid__": "a27b4e5d-e3af-4b56-b7f5-085df2ef0f14"
+    },
+    "recordWidget": {
+      "__uuid__": "9f74276e-3d27-45c6-b584-18ebdd82b3f3"
+    },
+    "shortcutWidget": {
+      "__uuid__": "2c3b9275-526c-4a42-bc9d-ab37d38792bc"
+    },
+    "crossWidget6": {
+      "__uuid__": "fda397c4-1eed-46d2-93cc-6e03d284aea3"
+    },
+    "rewardInsert": null,
+    "statementRecomment": {
+      "__uuid__": "2803cfe6-997f-41e6-aeae-d63080e04312"
+    },
+    "singleNativeAd": {
+      "__uuid__": "df06086d-e07a-4169-a754-c0a6d8e2e325"
+    },
+    "shareRecordPanel": {
+      "__uuid__": "27737736-58dd-4482-b2dd-0a4dbbbdba78"
+    },
+    "gameExitDialog": null,
+    "rewardBoxPanel": {
+      "__uuid__": "973f3509-2531-4a9c-ad1c-dad9a9632402"
+    },
+    "rewardTurnTablePanel": {
+      "__uuid__": "b100be24-a3dc-439c-a5a2-286fc76b5b50"
+    },
+    "rewardShortCutPanel": {
+      "__uuid__": "5e2195e4-cf6a-48b6-8dcd-dbe7ee94aded"
+    },
+    "nativeTryGameWidget": {
+      "__uuid__": "a8a14ad6-b3a2-49ab-8412-e23b0cadbd55"
+    },
+    "beforGameOverRecGamesPanel": {
+      "__uuid__": "6e18672c-91fb-4d10-a42d-193d8280817e"
+    },
+    "withdrawalWidget": null,
+    "withdrawalPanel": null,
+    "redBagProgressWidget": null,
+    "openRedBagPanel": null,
+    "rewardRedBagPanel": null,
+    "rewardLuckBoxPanel": {
+      "__uuid__": "961d16b2-96d8-4785-b461-bd4ef979db94"
+    },
+    "verticalRecommentPanel": null,
+    "privacyWidget": {
+      "__uuid__": "e7f73c45-d167-4fc2-8a4b-d27a51edf1bc"
+    },
+    "privacyPanel": {
+      "__uuid__": "d31cc54e-787f-4ee1-9766-2fbf0e1a3b39"
+    },
+    "handPrefab": {
+      "__uuid__": "770e5361-ae56-4806-aa88-9b81b01d9f17"
+    },
+    "yzRealNameAuthPanel": {
+      "__uuid__": "a398247e-2fa1-46a4-b66d-114057e0d01b"
+    },
+    "yzCustomAdPanel": {
+      "__uuid__": "c11a852f-c19b-45b0-8b2d-aafc6c76f3c5"
+    },
+    "yzLoginPanel": {
+      "__uuid__": "39e8a631-0b47-46b7-b0c5-13c1d29dad14"
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "f121f74e-463c-494e-992b-27a70c1affcd"
+    },
+    "fileId": "88iV/+I2pE/b4JlRhuoHfm",
+    "sync": false
+  }
+]

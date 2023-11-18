@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "native_btn_down",
+    "texture": "3f453e79-8ef4-42d2-9204-93154043104a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      395,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      395,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "loadAni.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "dian": {
+      "__uuid__": "3e19daa2-aa25-4833-8949-28b1e238281c"
+    },
+    "tou": {
+      "__uuid__": "f18fd909-5455-4002-ad87-825de59dad14"
+    },
+    "xingxing": {
+      "__uuid__": "01984b0d-be3a-4dc6-8b19-bb80ddec0645"
+    },
+    "you-qiang": {
+      "__uuid__": "63de05e1-5eb0-4562-b9ac-ed882f036d22"
+    },
+    "zuo-qiang": {
+      "__uuid__": "29e7b5e2-a589-4a56-92ff-64478163035d"
+    }
+  }
+}

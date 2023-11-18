@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lhuo",
+    "texture": "90e53368-c15c-4797-9d7e-72531f2feca9",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      506,
+      498
+    ],
+    "offset": [
+      -1,
+      5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

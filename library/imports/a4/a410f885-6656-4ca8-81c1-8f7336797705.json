@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_huang",
+    "texture": "08803f04-05f9-4a72-8477-9bba9cc0ca97",
+    "atlas": "1b1c42f8-bbc3-4a6e-8dc6-3bcdfdc36d02",
+    "rect": [
+      311,
+      787,
+      307,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      307,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

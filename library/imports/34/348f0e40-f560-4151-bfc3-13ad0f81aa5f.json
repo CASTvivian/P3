@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fjTip-yy",
+    "texture": "ae6c25cb-de36-4620-a369-8869b44d73a0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      416,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      416,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

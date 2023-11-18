@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.AudioClip",
+  "_name": "hurt_melee",
+  "_objFlags": 0,
+  "_native": ".mp3",
+  "duration": 0.425,
+  "loadMode": 0
+}

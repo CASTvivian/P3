@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zombieSkill_introduce_34_1",
+    "texture": "ec01647d-8277-4a11-9941-fbdc0f2c4588",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      305,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      305,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

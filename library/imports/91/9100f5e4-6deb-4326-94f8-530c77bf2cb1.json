@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "splash_btn_down",
+    "texture": "de9aa75e-4b87-4f2f-916b-6454282bf945",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      435,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      435,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

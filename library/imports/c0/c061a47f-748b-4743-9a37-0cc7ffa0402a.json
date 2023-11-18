@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zombie_tank",
+    "texture": "120767e3-f379-4eb7-9a36-a37c11a624b6",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1518,
+      509
+    ],
+    "offset": [
+      -263,
+      -0.5
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

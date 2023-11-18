@@ -1,0 +1,14 @@
+info face="face" size=70
+common lineHeight=70 scaleW=238 scaleH=214 pages=1
+page id=0 file="truntable_font.png"
+chars count=10
+char id=48 x=0 y=0 width=58 height=70 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=49 x=60 y=0 width=58 height=70 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=50 x=120 y=0 width=58 height=70 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=51 x=0 y=72 width=58 height=70 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=52 x=60 y=72 width=58 height=70 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=53 x=120 y=72 width=58 height=70 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=54 x=180 y=0 width=58 height=70 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=55 x=180 y=72 width=58 height=70 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=56 x=0 y=144 width=58 height=70 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=57 x=60 y=144 width=58 height=70 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15

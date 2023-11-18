@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sanbei",
+    "texture": "7469b32f-3897-4f02-98b6-2e764e5fc9f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      414,
+      161
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      414,
+      161
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
